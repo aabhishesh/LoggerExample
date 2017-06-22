@@ -1,0 +1,11 @@
+Jun 22, 2017 1:49:25 PM Log4jdemo.UseLogger doSomeThingAndLog
+SEVERE: Info Log 
+
+Jun 22, 2017 1:49:25 PM Log4jdemo.UseLogger doSomeThingAndLog
+SEVERE: C:\Users\asing277\workspace\Hello
+Jun 22, 2017 1:49:25 PM Log4jdemo.UseLogger doSomeThingAndLog
+SEVERE: Info Log
+Jun 22, 2017 1:49:25 PM Log4jdemo.UseLogger doSomeThingAndLog
+WARNING: Info Log
+Jun 22, 2017 1:49:25 PM Log4jdemo.UseLogger doSomeThingAndLog
+INFO: Info Log
