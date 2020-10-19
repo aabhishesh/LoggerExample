@@ -1,2 +1,2 @@
 # LoggerExample
-Dummy co
+Dummy comm
